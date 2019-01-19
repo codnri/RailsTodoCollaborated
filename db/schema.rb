@@ -1,3 +1,4 @@
+
 ActiveRecord::Schema.define(version: 20190106024232) do
 
   create_table "todos", force: :cascade do |t|
